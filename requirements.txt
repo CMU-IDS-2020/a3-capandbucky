@@ -3,6 +3,5 @@ pandas
 altair
 mplfinance
 yahoofinancials
-matplotlib.dates
 yfinance
 matplotlib
