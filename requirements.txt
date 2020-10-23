@@ -1,8 +1,6 @@
 streamlit
 pandas
 altair
-time
-datetime
 mplfinance
 yahoofinancials
 matplotlib.dates
