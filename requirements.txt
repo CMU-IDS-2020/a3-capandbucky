@@ -3,7 +3,6 @@ pandas
 altair
 time
 datetime
-matplotlib.pyplot
 mplfinance
 yahoofinancials
 matplotlib.dates
